@@ -1,0 +1,22 @@
+{
+  "name": "modafro/factorial",
+  "description": "unit test demo for Factorial function",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mohamed Eldefrawy",
+      "email": "mohamed.eldefrawy13026011@aiet.edu.eg"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "9.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Users\\": "users",
+      "Tests\\": "tests",
+      "Src\\": "src"
+    }
+  }
+}
