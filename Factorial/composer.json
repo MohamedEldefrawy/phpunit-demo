@@ -15,7 +15,6 @@
   "autoload": {
     "psr-4": {
       "Users\\": "users",
-      "Tests\\": "tests",
       "Src\\": "src"
     }
   }
