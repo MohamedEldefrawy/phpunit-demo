@@ -1,7 +1,4 @@
 <?php
-
-namespace Tests;
-
 use PHPUnit\Framework\TestCase;
 use Src\FactorialCalculator;
 
